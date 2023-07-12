@@ -9,7 +9,7 @@ Link to in-class p5.js sketches:
  - 07-11:
      - Bouncing Ball: https://editor.p5js.org/micahdschuster/sketches/2RMbUXP4D
  - 07-12:
-     - Monte Hall:
-     - Monte Carlo Pi:
+     - Monte Hall: https://editor.p5js.org/micahdschuster/sketches/3yAdcz9_m
+     - Monte Carlo Pi: https://editor.p5js.org/micahdschuster/sketches/2MUM-eKJV
      - Object Ball:
      - Bubbles:
