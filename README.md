@@ -4,6 +4,12 @@ Repository for ImpactLab 2023: Computer Science and Programming Fundamentals aft
 
 Link to in-class p5.js sketches:
 
- - 07-10: https://editor.p5js.org/micahdschuster/sketches/pZbtaRryg
+ - 07-10:
+     - Intro Sketch https://editor.p5js.org/micahdschuster/sketches/pZbtaRryg
  - 07-11:
      - Bouncing Ball: https://editor.p5js.org/micahdschuster/sketches/2RMbUXP4D
+ - 07-12:
+     - Monte Hall:
+     - Monte Carlo Pi:
+     - Object Ball:
+     - Bubbles:
