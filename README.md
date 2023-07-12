@@ -11,5 +11,4 @@ Link to in-class p5.js sketches:
  - 07-12:
      - Monte Hall: https://editor.p5js.org/micahdschuster/sketches/3yAdcz9_m
      - Monte Carlo Pi: https://editor.p5js.org/micahdschuster/sketches/2MUM-eKJV
-     - Object Ball:
-     - Bubbles:
+     - Rectangle Class: https://editor.p5js.org/micahdschuster/sketches/8MB4LBwkC
