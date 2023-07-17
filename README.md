@@ -17,4 +17,4 @@ Link to in-class p5.js sketches:
      - Current Bubbles: https://editor.p5js.org/micahdschuster/sketches/6lItNYGKX
   - 07-17:
      - 1D CA: https://editor.p5js.org/micahdschuster/sketches/48MxJRsBI
-     - GOL:
+     - GOL: https://editor.p5js.org/micahdschuster/sketches/SFgbiwGfk
