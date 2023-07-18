@@ -19,5 +19,5 @@ Link to in-class p5.js sketches:
      - 1D CA: https://editor.p5js.org/micahdschuster/sketches/48MxJRsBI
      - GOL: https://editor.p5js.org/micahdschuster/sketches/SFgbiwGfk
   - 07-18:
-     - Mandelbrot:
+     - Mandelbrot: https://editor.p5js.org/micahdschuster/sketches/T7gMIDg0N
      - Blur: 
