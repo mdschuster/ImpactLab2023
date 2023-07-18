@@ -20,4 +20,4 @@ Link to in-class p5.js sketches:
      - GOL: https://editor.p5js.org/micahdschuster/sketches/SFgbiwGfk
   - 07-18:
      - Mandelbrot: https://editor.p5js.org/micahdschuster/sketches/T7gMIDg0N
-     - Blur: 
+     - Blur: https://editor.p5js.org/micahdschuster/sketches/3u4Q7OcvS
