@@ -21,3 +21,5 @@ Link to in-class p5.js sketches:
   - 07-18:
      - Mandelbrot: https://editor.p5js.org/micahdschuster/sketches/T7gMIDg0N
      - Blur: https://editor.p5js.org/micahdschuster/sketches/3u4Q7OcvS
+  - 07-19:
+     - Snake: https://editor.p5js.org/micahdschuster/sketches/Xg7sdC-WI
