@@ -23,3 +23,6 @@ Link to in-class p5.js sketches:
      - Blur: https://editor.p5js.org/micahdschuster/sketches/3u4Q7OcvS
   - 07-19:
      - Snake: https://editor.p5js.org/micahdschuster/sketches/Xg7sdC-WI
+  - 07-20:
+     - Recursive Trees: https://editor.p5js.org/micahdschuster/sketches/ei4Z9DQog
+     - OOP Trees: https://editor.p5js.org/micahdschuster/sketches/XofAPrRCC
